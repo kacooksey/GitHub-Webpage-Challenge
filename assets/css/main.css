@@ -14,7 +14,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: Tahoma;
+		font: inherit;
 		vertical-align: baseline;
 	}
 
@@ -3112,7 +3112,7 @@
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #6400C3;
+			color: #ffffff;
 		}
 
 		#intro a {
@@ -3327,7 +3327,7 @@
 	}
 
 		#header input, #header select, #header textarea {
-			color: #6400C3;
+			color: #ffffff;
 		}
 
 		#header a {
@@ -3373,7 +3373,7 @@
 			border-style: solid;
 			border-color: #ffffff;
 			border-width: 5px !important;
-			font-family: "Lucida Sans", Helvetica, sans-serif;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 2.25rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3984,7 +3984,7 @@
 			}
 
 		#footer .pagination span {
-			color: #6400C3;
+			color: #e2e2e2;
 		}
 
 		#footer > section {
